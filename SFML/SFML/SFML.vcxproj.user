@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>config.cfg lots_o_mines.brd recursion_test.brd testboard1.brd testboard2.brd testboard3.brd debug.png digits.png face_happy.png face_lose.png face_win.png flag.png mine.png number_1.png number_2.png number_3.png number_4.png number_5.png number_6.png number_7.png number_8.png test_1.png test_2.png test_3.png tile_hidden.png tile_reveal.png</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

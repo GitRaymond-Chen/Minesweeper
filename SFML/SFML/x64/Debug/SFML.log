@@ -1,0 +1,454 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  board.cpp
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(27,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(37,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(49,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(53,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(54,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(92,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(96,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(97,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(105,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(122,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(123,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(246,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(247,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(258,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(261,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(262,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(371,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\board.cpp(372,36): warning C4018: '<': signed/unsigned mismatch
+  game.cpp
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(231,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(232,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(233,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(233,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(241,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(242,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(244,61): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(244,53): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(245,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(245,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(250,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(250,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(259,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(260,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(262,63): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(262,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(265,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(265,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(269,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(269,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(273,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(273,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(277,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(277,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(281,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(281,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(285,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(285,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(289,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(289,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(293,68): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(293,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(306,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(306,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(310,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(310,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(314,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(314,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(319,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(319,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(323,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(323,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(327,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(327,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(331,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(331,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(355,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(356,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(358,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(358,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(359,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(359,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(368,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(369,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(371,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(371,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(372,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(372,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(380,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(381,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(383,65): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(383,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(384,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(384,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(395,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(401,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(405,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(409,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(413,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(417,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(421,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(425,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(429,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(433,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(437,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(443,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(447,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(451,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(455,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(459,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(463,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(467,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(471,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(475,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(479,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(485,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(489,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(493,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(497,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(501,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(505,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(509,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(513,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(517,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(521,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(527,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chenr\source\repos\SFML\SFML\game.cpp(528,40): warning C4018: '<': signed/unsigned mismatch
+  Tile.cpp
+  Generating Code...
+  SFML.vcxproj -> C:\Users\chenr\source\repos\SFML\x64\Debug\Minesweeper.exe
